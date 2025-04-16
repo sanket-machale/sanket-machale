@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and explo
 ![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanket-machale&show_icons=true&theme=radical)
 
 ## 🌟 Top Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanket-machale&repo=StudySync&theme=radical)](https://github.com/sanket-machale/awesome-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanket-machale&repo=hostel_connect&theme=radical)](https://github.com/sanket-machale/awesome-project)
 
 ## 📈 Contributions
 - Actively contributing to open-source communities.
